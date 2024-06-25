@@ -15,8 +15,7 @@
 
 
 
-<div style="display: flex; align-items: flex-start;">
-  <img align="right" alt="Git-Computador" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVrNDd5NXZxeGp1bWs0eGcxcHV1ZGMwM3ViNjI0M2V1NWd5ZGZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+  <img align="right" alt="Git-Computador" width="260px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVrNDd5NXZxeGp1bWs0eGcxcHV1ZGMwM3ViNjI0M2V1NWd5ZGZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
 
 ```go
 func NewDesenvolvedor() *Desenvolvedor {
@@ -29,7 +28,6 @@ func NewDesenvolvedor() *Desenvolvedor {
     }
 }
 ```
-</div>
 
 ## Tecnologias que eu uso no meu dia
 <p align="center">
