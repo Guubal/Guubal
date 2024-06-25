@@ -21,6 +21,7 @@
 func NewDesenvolvedor() *Desenvolvedor {
     return &Desenvolvedor{
         Nome:     "Gustavo Balieiro",
+        Apelido:  "Guubal",
         Area:     "Back-end",
         Trabalho: "Mercado Livre",
         Local:    "São Paulo, SP",
