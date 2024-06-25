@@ -25,7 +25,7 @@ func NewDesenvolvedor() *Desenvolvedor {
         Area:     "Back-end",
         Trabalho: "Mercado Livre",
         Local:    "São Paulo, SP",
-        Pronomes: "ele / dele",
+        Hobbies:  []string{"Programar", "Jogar videogame", "Assistir séries", "Viajar"},
     }
 }
 ```
